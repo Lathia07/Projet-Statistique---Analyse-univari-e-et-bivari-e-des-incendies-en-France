@@ -1,0 +1,2 @@
+# Projet-Statistique---Analyse-univari-e-et-bivari-e-des-incendies-en-France
+projet basé sur l'exploitation de données géographiques, climatiques liées aux incendies. Les analyses sont réalisées à l'aide de scripts R et présentées dans un rapport RMarkdown, combinant code, résultats statistiques et visualisations afin d'étudier l'influence de facteurs(la température, le vent, l'altitude) sur l'intensité des incendies 
